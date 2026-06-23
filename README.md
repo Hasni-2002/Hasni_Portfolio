@@ -19,9 +19,7 @@
 <table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #311042 100%); border-radius: 12px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
   <tr>
     <td align="center" style="padding: 30px; color: #e2e8f0; font-size: 1.1em; line-height: 1.6;">
-      An engineered and purpose-driven Mechanical Engineer with over 4 years of distinguished cross-disciplinary STEM expertise, specializing in Sustainable Engineering, Additive Manufacturing, and Clean Energy Systems. Recognized as an <b>Emerging Research Prodigy by GetInnovative4Impact (European Union)</b>, I am deeply committed to advancing UN Sustainable Development Goals, specifically SDG 9 and SDG 12.
-      <br><br>
-      My work bridges advanced materials science, multi-physics simulation, and data-driven modeling to build ecologically conscientious solutions resolutely aligned with a decarbonized, net-zero future.
+      An indefatigable and ingenious Mechanical Engineer with 4+ years of distinguished cross-disciplinary STEM expertise, specializing in Sustainable Engineering, Additive Manufacturing & Clean Energy Systems. Recognized as an Emerging Research Prodigy by GetInnovative4Impact (European Union), with a strong commitment with UN (SDGs), particularly SDG 9 and SDG 12. Steadfastly devoted to advancing sustainable engineering and clean energy transitions, fortifying structural integrity through advanced materials science, and championing ecologically conscientious solutions resolutely aligned with a decarbonized, net-zero future. Experienced in research and development, with publications and international conference presentations supporting sustainable engineering and next-generation engineering systems.
     </td>
   </tr>
 </table>
