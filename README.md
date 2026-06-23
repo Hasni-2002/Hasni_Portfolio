@@ -1,13 +1,12 @@
-# Hasni_Portfolio
 <div align="center">
   
   # Abdullah Hasni
-  ### Design-to-Decision Engineer | [cite_start]Sustainable Engineering & Clean Energy Systems [cite: 1, 2, 3]
-  #### Machine Learning & Bayesian UQ | [cite_start]NetZero 
+  ### Design-to-Decision Engineer | Sustainable Engineering & Clean Energy Systems
+  #### Machine Learning & Bayesian UQ | NetZero
   
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-hasni-19bb27295)
   [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasniabdullah975@gmail.com)
-  [![Google Scholar](https://img.shields.io/badge/SCHOLAR-ARTICLES-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+  [![Google Scholar](https://img.shields.io/badge/GOOGLE_SCHOLAR-PUBLICATIONS-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_WJhRwkAAAAJ&hl=en&oi=sra)
 
 </div>
 
@@ -15,58 +14,68 @@
 
 ## 🚀 About Me
 
-[cite_start]An indefatigable and ingenious Mechanical Engineer with 4+ years of distinguished cross-disciplinary STEM expertise, specializing in Sustainable Engineering, Additive Manufacturing & Clean Energy Systems[cite: 5]. [cite_start]Recognized as an **Emerging Research Prodigy by GetInnovative4Impact (European Union)**, I am deeply committed to the UN Sustainable Development Goals (SDG 9 & SDG 12)[cite: 6]. 
+An engineered and purpose-driven Mechanical Engineer with over 4 years of distinguished cross-disciplinary STEM expertise, specializing in Sustainable Engineering, Additive Manufacturing, and Clean Energy Systems. Recognized as an Emerging Research Prodigy by GetInnovative4Impact (European Union), I am deeply committed to advancing UN Sustainable Development Goals, specifically SDG 9 and SDG 12. 
 
-[cite_start]My work bridges advanced materials science, multi-physics simulation, and data-driven modeling to build ecologically conscientious solutions resolutely aligned with a decarbonized, net-zero future[cite: 6].
+My work bridges advanced materials science, multi-physics simulation, and data-driven modeling to build ecologically conscientious solutions resolutely aligned with a decarbonized, net-zero future.
 
 ---
 
-## 🔬 Peer-Reviewed Publications & Research
+## 🔬 Peer-Reviewed Research & Publications
 
 ### 📄 Journal Publications
-* **Lead Author | [cite_start]Springer Nature** (*International Journal of Aeronautical and Space Sciences*) [cite: 9, 11]
-  * Designed and experimentally validated a novel Twin Turbojet Engine achieving 12,000N thrust ($3.3\%$ CFD deviation) and supersonic performance (Mach 1.75-1.8)[cite: 13].
-  * [cite_start]Developed high-fidelity CFD models (residuals $\le 10^{-5}$) optimizing swirler designs to maximize flame stability[cite: 15].
-* **Lead Author | [cite_start]Jordan Journal of Mechanical & Industrial Engineering** [cite: 18, 20]
-  * Developed a kinematic-ML framework mapping velocity anisotropy and slurry hydrodynamics in Chemical Mechanical Polishing (CMP) to achieve sub-5 nm planarity for semiconductor applications[cite: 20, 22].
+* **International Journal of Aeronautical and Space Sciences (Springer Nature)**
+  * *Role:* Lead Author
+  * Designed and experimentally validated a novel Twin Turbojet Engine achieving 12,000N thrust with a 3.3% CFD deviation, low SFC of 0.047 kg/N-h, and supersonic performance (Mach 1.75-1.8) with stable combustion at 2400–2500 K.
+  * Developed a high-fidelity CFD model (residuals ≤ 10⁻⁵, < 4.3% error) and optimized swirler designs to enhance air-fuel mixing and flame stability.
+* **Jordan Journal of Mechanical & Industrial Engineering**
+  * *Role:* Lead Author
+  * Published an integrated computational, experimental, and machine learning framework mapping velocity anisotropy and slurry hydrodynamics in Chemical Mechanical Polishing (CMP).
+  * Utilized Random Forest regression to show that a 71/59 RPM ratio maximizes the Material Removal Rate (62.36 nm/min), directly optimizing sub-5 nm planarity and high-bandwidth memory precision.
 
-### 🎙️ Selected Conference Presentations
-* **Speaker | [cite_start]Asian Materials and Design Engineering Symposium (NTU, Singapore)** [cite: 24, 25]
-  * [cite_start]Shared research contributions on material science and twin turbojet propulsion efficiency[cite: 25, 26].
-* **Lead Author | [cite_start]15th International Mechanical Engineering Conference (EU-GetInnovative4Impact)** [cite: 29]
-  * **Gold Category Award for Best Paper Presentation**[cite: 32]. Conducted refinery-scale exergy analysis of SMR-PSA hydrogen systems, modeling pathway transitions (Grey to Blue/Green) via advanced ML (XGBoost, LSTMs, Transformers) and Explainable AI (SHAP)[cite: 30].
-* **Poster Presentation | [cite_start]EU-CONEXUS Smart Sustainability Conference (Athens, Greece)** [cite: 33, 34]
-  * [cite_start]Showcased a comparative exergy and machine learning framework for in-situ SMR decarbonization[cite: 34].
+### 🎙️ Conference Presentations
+* **Asian Materials and Design Engineering Symposium (NTU, Singapore)**
+  * *Role:* Invited Speaker
+  * Presented core research contributions on materials science, twin turbojet engine applications, and combustion efficiency.
+* **15th International Mechanical Engineering Conference (GetInnovative4Impact – European Union)**
+  * *Role:* Lead Author
+  * **Awarded Gold Category Award for Best Paper Presentation.**
+  * Conducted refinery-scale exergy analysis of SMR-PSA hydrogen systems, quantifying carbon intensity variations across Grey, Blue, and Green pathways under industrial operations (~39 bar, 800–900°C).
+  * Optimized high-purity hydrogen production (99.9%–99.999%) using advanced machine learning models (XGBoost, LSTM, GRU, Transformer) paired with SHAP explainable AI and Hollow Fiber Membrane Modules (HFMM) for carbon capture.
+* **Smart Sustainability Conference (EU-CONEXUS – Athens, Greece)**
+  * *Role:* Poster Presenter
+  * Showcased a comparative exergy and machine learning framework evaluating in-situ SMR decarbonization and the market ascendancy of blue versus green hydrogen.
+* **14th International Mechanical Engineering Conference (GetInnovative4Impact – European Union)**
+  * **Awarded Young Research Prodigy Shield Accolade** in recognition of academic presentation excellence for the Novel Twin Turbojet Engine development.
 
 ---
 
 ## 💼 Industrial Experience
 
-* **Executive Engineer – Plant Engineering & Energy Management** | [cite_start]*Getz Pharma Ltd* `Jan 2026 – Present` [cite: 51, 52]
-  * Directed energy analysis programs retaining up to 60% electrical load during critical operations[cite: 53].
-  * [cite_start]Spearheaded CAPEX & OPEX optimization initiatives saving **PKR 120 million**[cite: 54].
-* **Senior Management Engineer** | [cite_start]*National Refinery Ltd* `Dec 2024 – Dec 2025` [cite: 55, 56, 57]
-  * Integrated CFD and ML algorithms for continuous emissions monitoring ($SO_2$ & $H_2S$)[cite: 58].
-  * [cite_start]Developed a predictive maintenance model boosting plant profitability by 12% (**Saved 40M PKR**)[cite: 59, 60].
-* **Engineering Intern – Production** | [cite_start]*Atlas Honda Ltd* `Feb 2023 – Mar 2023` [cite: 61, 62, 63]
-  * Led an Additive Manufacturing and 3D-Modeling automation project that saved **120M PKR**[cite: 64].
+* **Executive Engineer – Plant Engineering & Energy Management** | *Getz Pharma Ltd* `Jan 2026 – Present`
+  * Directed energy analysis and crisis management programs, successfully retaining up to 60% electrical load during critical operations to guarantee production continuity.
+  * Spearheaded CAPEX and OPEX optimization initiatives, reducing operational expenditures by PKR 120 million through data-driven resource allocation and energy-efficient scheduling.
+* **Senior Management Engineer** | *National Refinery Ltd* `Dec 2024 – Dec 2025`
+  * Integrated computational fluid dynamics and machine learning algorithms for gas flow analysis and continuous emissions monitoring of SO₂ and H₂S.
+  * Developed a predictive maintenance model achieving 65% accuracy, saving PKR 40 million in fuel/maintenance costs while boosting refinery unit profitability by 12%.
+* **Engineering Intern – Production** | *Atlas Honda Ltd* `Feb 2023 – Mar 2023`
+  * Led an Additive Manufacturing and 3D-modeling automation project that optimized workflow layout, decreased operator workload by 20%, and saved PKR 120 million across core assembly operations.
 
 ---
 
-## 🛠️ Technical Stack & Tools
+## 🛠️ Technical Stack & Frameworks
 
 <table>
   <tr>
     <td><b>AI & Data Science</b></td>
-    <td>Python (TensorFlow, PyTorch), Machine Learning, Bayesian UQ, Generative AI & RAG, Large Language Models, LLM Apps, SQL/NoSQL [cite: 3, 70, 82]</td>
+    <td>Python (TensorFlow, PyTorch), Machine Learning, Generative AI & RAG, Deep Reinforcement Learning, Agentic Workflows, LLM Applications, SQL/NoSQL, Google Colab</td>
   </tr>
   <tr>
-    <td><b>Simulation & CAD</b></td>
-    <td>Ansys (CFD & FEA), SolidWorks, COMSOL Multiphysics, OpenFOAM, Tecplot 360, OriginPro [cite: 82]</td>
+    <td><b>Engineering & Simulation</b></td>
+    <td>Ansys (CFD & FEA), SolidWorks, COMSOL Multiphysics, OpenFOAM, Tecplot 360, OriginPro</td>
   </tr>
   <tr>
-    <td><b>Core Expertise</b></td>
-    <td>Sustainable Engineering, Hydrogen Pathways, Additive Manufacturing, Fracture Mechanics, Thermochemical Combustion [cite: 17, 49, 68]</td>
+    <td><b>Domain Expertise</b></td>
+    <td>Sustainable Engineering, Hydrogen Pathways, Carbon Capture Systems (CCS), Fracture Mechanics, Combustion Optimization, Additive Manufacturing</td>
   </tr>
 </table>
 
@@ -74,27 +83,18 @@
 
 ## 🎓 Education & Certifications
 
-* **B.E. in Mechanical Engineering** | [cite_start]*NED University of Engineering & Technology* [cite: 42, 43]
-  * *Grade:* 3.01 CGPA (First Division) | [cite_start]First Class in Year 3 with 85% average [cite: 44, 45]
-* **Advanced Sustainable Engineering** | *Siemens & University of Colorado Boulder* [cite: 77]
-* **Introduction to Uncertainty Quantification** | [cite_start]*Johns Hopkins University* [cite: 77, 78]
-* **Intro to Advanced Python & Machine Learning** | [cite_start]*Google* [cite: 74]
-* **ASME-CAD/CAE Modeling** | *American Society of Mechanical Engineers* [cite: 75, 76]
-
----
-
-## 🏆 Honors & Global Impact
-* [cite_start]**Gold Category Award** – Best Conference Paper (*15th IMEC, European Union & NEDUET*) [cite: 95]
-* [cite_start]**Top Achiever Award** – GenAI & RAG Developer (*Silicon Valley USA, Pak Angels & PEC*) [cite: 96]
-* **Young Research Prodigy Award** – Shield Accolade (*14th IMEC, European Union*) [cite: 35]
-* [cite_start]**Certified Peer Reviewer** – *Springer Nature* [cite: 96]
-* [cite_start]**Language Proficiency:** English (Native/Bilingual), Urdu (Native), German (Intermediate - CEFR C1 IELTS 8-band) [cite: 79, 91]
+* **Bachelor of Engineering (B.E.) in Mechanical Engineering** | *NED University of Engineering & Technology*
+  * *Grade:* 3.01 CGPA (First Division) | First Class in Year 3 with an 85% average
+* **Advanced Sustainable Engineering** | *Siemens & University of Colorado Boulder*
+* **Introduction to Uncertainty Quantification** | *Johns Hopkins University*
+* **Intro to Advanced Python & Machine Learning** | *Google*
+* **ASME-CAD/CAE Modeling** | *American Society of Mechanical Engineers*
 
 ---
 
 <div align="center">
   
-  ### 📊 My GitHub Profile Statistics
+  ### 📊 Profile Insights
   ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasni-2022&show_icons=true&theme=radical)
   
 </div>
